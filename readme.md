@@ -31,7 +31,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 $ composer install
 ```
 
-next, you need to create yout file .env (folowe .env.example)
+next, you need to create yout file .env (follow .env.example)
 
 next
 ```sh
